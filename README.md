@@ -48,5 +48,3 @@
 * Percabangan 4: Persentasi
   231031117-MUHAMMAD HEYZEL IKRAM-percabangan4.py
 
-  * Project 1: Truth or Dare
-    Truth or Dare.py
