@@ -1,6 +1,6 @@
 # Praktikum Pengantar Pemrograman
-<p> Nama  : 
-<p> Nim   :
+<p> Nama  : Muhammad Heyzel Ikram 
+<p> Nim   : 231031117
 <p> Prodi : Sistem Informasi D </p>
 
 * Praktikum 1 : Pengenalan Variabel
